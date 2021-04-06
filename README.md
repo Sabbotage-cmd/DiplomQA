@@ -63,9 +63,9 @@
 1. Открыть терминал;
 2. Скопировать репозиторий:
 ```
-git clone https://github.com/Sabbotage-cmd/QA-Diplom.git
+git clone https://github.com/Sabbotage-cmd/DiplomQA.git
 ```
-3. Перейти в директорию `QA-Diplom/`
+3. Перейти в директорию `DiplomQA/`
 4. Остановить и удалить запущенные контейнеры, если есть:
 ```
 docker stop $(docker ps -q)
@@ -115,6 +115,6 @@ docker-compose up -d --force-recreate
     ```
     ## Отчётность
 
-+ [План автоматизации](https://github.com/Sabbotage-cmd/QA-Diplom/blob/master/documentation/Plan.md)
-+ [Отчёт о пройденных тестах](https://github.com/Sabbotage-cmd/QA-Diplom/blob/master/documentation/REPORT.md)
-+ [Итоги](https://github.com/Sabbotage-cmd/QA-Diplom/blob/master/documentation/Summary.md)
++ [План автоматизации](https://github.com/Sabbotage-cmd/DiplomQA/blob/master/documentation/Plan.md)
++ [Отчёт о пройденных тестах](https://github.com/Sabbotage-cmd/DiplomQA/blob/master/documentation/REPORT.md)
++ [Итоги](https://github.com/Sabbotage-cmd/DiplomQA/blob/master/documentation/Summary.md)
