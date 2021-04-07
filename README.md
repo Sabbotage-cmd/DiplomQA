@@ -116,5 +116,5 @@ docker-compose up -d --force-recreate
     ## Отчётность
 
 + [План автоматизации](https://github.com/Sabbotage-cmd/DiplomQA/blob/master/documentation/Plan.md)
-+ [Отчёт о пройденных тестах](https://github.com/Sabbotage-cmd/DiplomQA/blob/master/documentation/REPORT.md)
++ [Отчёт о пройденных тестах](https://github.com/Sabbotage-cmd/DiplomQA/blob/master/documentation/Report.md)
 + [Итоги](https://github.com/Sabbotage-cmd/DiplomQA/blob/master/documentation/Summary.md)
